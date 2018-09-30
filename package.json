@@ -1,0 +1,21 @@
+{
+  "name": "express-football-api",
+  "version": "1.0.0",
+  "description": "Toy application using Node + Express for a RESTful API to make a football tournament schedule.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcarloshf/express-football-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielcarloshf/express-football-api/issues"
+  },
+  "homepage": "https://github.com/danielcarloshf/express-football-api#readme"
+}
