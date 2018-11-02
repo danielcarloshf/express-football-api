@@ -4,7 +4,7 @@
  * 
  * Defines a Match basic information.
  */
-import PropTypes from 'prop-types';
+const PropTypes = require('prop-types');
 
 const Match = (id, tournament, round, stadium, home, visitor, h_score, v_score) => ({
   id         : id,
